@@ -1,0 +1,77 @@
+GitHub - muralidharansankar02-deep
+FaLLqSjP5f@xcwu
+===============================
+Jenkins:
+name:murali
+mailID:muralidharan.sankar02@gmail.com
+Password:Murali01061998@
+
+http://localhost:5555
+====================
+or create a new repository on the command line
+echo "# demoforpush" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/muralidharansankar02-beep/demoforpush.git
+git push -u origin main
+--------------------------------------------------------------------------------------------
+…or push an existing repository from the command line
+git remote add origin https://github.com/muralidharansankar02-beep/demoforpush.git
+git branch -M main
+git push -u origin main
+
+
+Below is a sample resume body tailored for someone who has completed the Playwright Full Course from the provided video. This highlights relevant skills, experience, and achievements in test automation using Playwright and other related tools.
+
+***
+
+### Resume Body: Playwright Automation Tester
+
+#### Professional Summary
+Detail-oriented Automation Tester with hands-on expertise in Playwright for end-to-end testing of web applications. Proven ability to design scalable, reliable, and maintainable automated test frameworks across Chromium, Firefox, and WebKit browsers. Adept at leveraging modern testing tools and CI/CD principles to deliver high-quality software.
+
+#### Technical Skills
+- **Languages:** JavaScript, TypeScript, Python, Java, C#
+- **Automation Tools:** Playwright, Selenium WebDriver, Cypress, Appium
+- **Testing Methods:** API Testing (Postman, Rest Assured), Data-driven Testing (JSON/CSV), Visual Comparison, Hard/Soft Assertions
+- **Frameworks:** Mocha, Jasmine, TestNG, Page Object Model (POM), SpecFlow (BDD)
+- **Dev Tools & Platforms:** Visual Studio Code, Node.js, Azure DevOps, GitHub Actions
+- **Reporting & CI/CD:** Playwright HTML Reports, Screenshots on Failure, Trace Viewer Integration, Parallel and Sequential Testing
+- **Browsers & Platforms:** Chrome, Edge, Firefox, WebKit, Mobile Emulation (Safari/Chrome), Windows, macOS, Linux
+
+#### Professional Experience
+**Automation Test Engineer**
+*Self-Learning/Project Experience — Jan 2024–Present*
+
+- Designed and implemented robust Playwright test suites for modern web and mobile applications, achieving reliable cross-browser coverage.[1]
+- Configured Playwright projects using `playwright.config.js` for customized browser setup, headless/headed mode execution, retries, and parallel runs.[1]
+- Automated complex scenarios including login flows, dropdown lists, mouse & keyboard actions, drag & drop, iframe interaction, and date pickers using Playwright locators and actions.[1]
+- Utilized Playwright codegen and inspector for rapid script development and efficient element identification.[1]
+- Integrated Playwright tests with CI/CD pipelines (Azure DevOps, GitHub Actions) for scalable continuous testing and automated reporting.[1]
+- Developed data-driven test cases using external JSON and CSV files, increasing coverage and flexibility.[1]
+- Generated actionable HTML test reports and visual trace logs for failed runs to aid debugging and team communication.[1]
+- Applied Page Object Model for modular, maintainable code structure and reusable test components.[1]
+- Compared Playwright’s architecture and performance strengths against Cypress and Selenium; selected the optimal tool based on project requirements.[1]
+- Collaborated on API testing using Playwright’s native API-testing features and supplementary tools like Postman and Rest Assured.[1]
+
+#### Education
+*Bachelor of Technology in Computer Science (or related field)*
+[Your University], [Year]
+
+#### Certifications
+- Playwright Automation Testing (YouTube Full Course, Jan 2024)[1]
+- Selenium Automation Testing
+- API Testing Foundations
+
+#### Projects & Achievements
+- Built and maintained a demo Playwright framework for web applications, including data-driven modules and reporting enhancements.[1]
+- Automated regression suite with execution across Chromium, Firefox, Edge, and webkit browsers, reporting 99% test stability.[1]
+- Published sample Playwright tests and frameworks on GitHub for learning and collaboration.[1]
+
+***
+
+This resume body can be adapted for job applications in automation testing, SDET roles, or test engineer positions, emphasizing deep practical knowledge of Playwright and test automation best practices.[1]
+
+[1](https://www.youtube.com/watch?v=2poXBtifpzA)
